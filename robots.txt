@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://rideneri.github.io/sitemap.html.gz
+Sitemap: https://rideneri.github.io/app/sitemap.html.gz
+Sitemap: https://rideneri.github.io/assets/sitemap.html.gz
+Sitemap: https://rideneri.github.io/css/sitemap.html.gz
+Sitemap: https://rideneri.github.io/includes/sitemap.html.gz
+Sitemap: https://rideneri.github.io/item/sitemap.html.gz
+Sitemap: https://rideneri.github.io/src/sitemap.html.gz
